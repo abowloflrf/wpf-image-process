@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wpf_image_process"
         mc:Ignorable="d"
-        Title="图像处理作业-41524226-计1504-雷若风" MinWidth="670" Width="670" Height="480" MinHeight="480">
+        Title="Image Process" MinWidth="670" Width="670" Height="480" MinHeight="480">
     <Grid>
         <Border BorderThickness="1" BorderBrush="#666"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20 120 0 0">
             <Image Name="img_1" MaxHeight="294" Width="294" Source="Images\sample.png" Margin="2" />
